@@ -1,1 +1,1 @@
-# ipython-grpc-client
+# ipython-grpc
