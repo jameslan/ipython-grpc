@@ -9,6 +9,7 @@ betterproto = {extras = ["compiler"], version = "*"}
 [dev-packages]
 pytest = "*"
 flake8 = "*"
+mypy = "*"
 
 [requires]
 python_version = "3.9"
